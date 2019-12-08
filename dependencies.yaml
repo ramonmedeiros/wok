@@ -62,11 +62,6 @@ runtime-deps:
     - python-m2crypto
     - gettext
     - python3-openssl
-    - libldap2-dev
-    - libsasl2-dev
-    - libssl-dev
-    - swig
-    - gcc
   fedora:
     - python3-jsonschema
     - python3-cherrypy
